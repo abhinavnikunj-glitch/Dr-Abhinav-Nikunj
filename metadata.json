@@ -1,0 +1,6 @@
+{
+  "name": "DENDRITES - NEET PG High-Yield Revision Engine",
+  "description": "Ultra-refined cyber-medical revision system, study timers, volatile vault, backlog tracker, clinical spotters, and dynamic syllabus scheduler for NEET PG aspirants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
